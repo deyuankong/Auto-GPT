@@ -25,3 +25,8 @@ COPY --chown=appuser:appuser autogpt/ ./autogpt
 
 # Set the entrypoint
 ENTRYPOINT ["python", "-m", "autogpt"]
+
+#增加AI 代码助手能力支持
+#1、xxx
+#2、xxx
+#3、xxx
